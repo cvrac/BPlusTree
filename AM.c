@@ -10,8 +10,6 @@
 #include "util.h"
 
 #define MAXOPENFILES 20
-
-#define MAXOPENFILES 20
 #define MAXSCANS 20
 
 typedef struct {
