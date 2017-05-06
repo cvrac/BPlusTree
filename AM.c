@@ -609,8 +609,13 @@ int AM_InsertEntry(int fileDesc, void *value1, void *value2)
 
 int Search(void *value1, int bf, Path *path)
 {/* Search for the data block where value1 is located
+<<<<<<< HEAD
   * Return the block ID. 'block' will also point to it,
   * and path will hold the index block ID path to reach it */
+=======
+  * Return the block ID, path will hold the index 
+  * block ID path to reach it */
+>>>>>>> 1fd5414f080f6e17493561fce8099c08d93dfba3
 
     char *info;
     /* Get info  block */
