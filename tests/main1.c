@@ -10,8 +10,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "../bplus_tree.h"
-#include "../AM.h"
+#include "bplus_tree.h"
+#include "AM.h"
 
 char empName[40];
 char empAge[40];

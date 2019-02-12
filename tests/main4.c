@@ -8,8 +8,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "../bplus_tree.h"
-#include "../AM.h"
+#include "bplus_tree.h"
+#include "AM.h"
 
 int main()
 {
